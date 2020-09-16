@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![image][https://image.flaticon.com/icons/png/512/174/174855.png](https://www.instagram.com/f.bn21/)
+[IG : f.bn21](https://www.instagram.com/f.bn21/)
