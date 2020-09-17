@@ -1,13 +1,15 @@
-### Hi there 👋
-##### Iam Folk From Thailand 
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Folk</a> <img
+src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /></h1>
+<div align="center">
+
 
 <!--
 **pedobearbn21/pedobearbn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
+-  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,7 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🔭 I’m currently working on SoftwareEngineering
+🌱 I’m currently learning Neural Network
 
 <h3>Things I code with</h3>
 <p>
@@ -38,3 +41,4 @@ Here are some ideas to get you started:
 <br/>
 <h3>Social Media</h3><br/>
   <a href="https://www.instagram.com/f.bn21/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@f.bn21!</a><br/>
+</div>
