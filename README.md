@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on SoftwareEngineering
-🌱 I’m currently learning Neural Network
+🔭 I’m currently working on SoftwareEngineering <br/>
+🌱 I’m currently learning Neural Network  <br/>
 
 <h3>Things I code with</h3>
 <p>
