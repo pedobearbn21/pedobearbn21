@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 
 
 <br/>
-    ![Folk](https://github-readme-stats.vercel.app/api?username=pedobearbn21&show_icons=true&theme=radical)
 </div>
+![FLUCK](https://github-readme-stats.vercel.app/api?username=pedobearbn21&show_icons=true&theme=radical)
+
