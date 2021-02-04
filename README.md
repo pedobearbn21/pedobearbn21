@@ -39,9 +39,5 @@ Here are some ideas to get you started:
 
 
 <br/>
-<h3>Social Media</h3><br/>
-<!-- <a href="https://www.instagram.com/f.bn21/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/>@f.bn21!</a><br/>
--->   
-      [**IG**](https://www.instagram.com/f.bn21)
-      [**FACEBOOK**](https://www.facebook.com/shiyobi.asuka/)
+    ![Folk](https://github-readme-stats.vercel.app/api?username=pedobearbn21&show_icons=true&theme=radical)
 </div>
