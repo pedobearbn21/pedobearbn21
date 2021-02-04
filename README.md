@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on SoftwareEngineering <br/>
 🌱 I’m currently learning Neural Network  <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedobearbn21&show_icons=false&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedobearbn21&show_icons=true&theme=radical&hide_rank=True" />
 </a>
 
 <h3>Things I code with</h3>
