@@ -22,15 +22,9 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Neural Network  <br/>
 <a href="https://github.com/pedobearbn21">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedobearbn21&show_icons=true&theme=radical&hide_rank=True" />
-</a>
-
-#### GitHub Analytics 📊
-<p align="center">
-<a>
-  <img height="145px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inzee86333&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="145px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inzee86333&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+
 
 <h3>Things I code with</h3>
 <p>
