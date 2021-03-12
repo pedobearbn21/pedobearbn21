@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Neural Network  <br/>
 <p align="center">
 <a>
-  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedobearbn21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedobearbn21&show_icons=true&theme=radical&hide_rank=True"/>
   <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedobearbn21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
